@@ -1,4 +1,4 @@
-<h1>:Hi 👋, I'm Raji<h1>
+<h1>:Hi 👋, I'am Raji<h1>
 <h1>Subtitle</h1><h1>A passionate frontend developer from India</h1>
 
 
